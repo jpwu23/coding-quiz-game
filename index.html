@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Quiz</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Nav bar ribbon at the top with option to "See Highscores" and also initial timer for the quiz -->
+    <nav class="ribbon">
+        <div>
+            <a href="#" id="highscoresLink" class="ribbon-link">See Highscores</a>
+        </div>
+        <div id="timer">Time Remaining: <span id="countdown">75</span> seconds
+        </div>
+    </nav>
+    <!-- Quiz introduction briefing -->
+    <div class="content" id="quizContent">
+        <h1>Coding Quiz Challenge</h1>
+        <h3>Try answering the multiple choice questions in the following screens within the given time frame.<br> 
+            Note: incorrect answers penalize your score and reduce time remaining by 10 seconds!</h3>
+        <button id="startQuizButton">Start Quiz</button>      
+    </div>
+    <script src="logic.js"></script> 
+</body>
+</html>
