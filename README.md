@@ -13,7 +13,7 @@ Takeaways from completing this project include the application of concepts surro
 N/A
 
 ## Usage 
-Go to link: https://jpwu23.github.io/random-password-generator/ Simply click on the "Start Quiz" button to start the game. You will have 75 seconds to complete the test. Begin by answering the multiple choice questions presented on the screen. Each incorrect answer will decrement the timer by 10 seconds. If you run out of time, the quiz will end and you will see your final score. Your score will be displayed at the end of the quiz and you will be asked to submit your name to the high scores list, which will draw from the local storage where it is saved. 
+Go to link: https://jpwu23.github.io/coding-quiz-game/ Simply click on the "Start Quiz" button to start the game. You will have 75 seconds to complete the test. Begin by answering the multiple choice questions presented on the screen. Each incorrect answer will decrement the timer by 10 seconds. If you run out of time, the quiz will end and you will see your final score. Your score will be displayed at the end of the quiz and you will be asked to submit your name to the high scores list, which will draw from the local storage where it is saved. 
 
 ![alt text](assets/images/screenshot2.PNG)
 
