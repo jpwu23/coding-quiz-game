@@ -5,7 +5,7 @@
 The purpose of this project was to create a dynamic JavaScript coding quiz game using weekly learnings from the coding course (refer to index.html and files inside the assets folder for styles). A timed multiple choice coding test was built from scratch to apply the basic JavaScript fundamentals taught in the edX coding bootcamp. Highscores can be kept track of each time the quiz is completed to gauge the user's progress.
 
 ## Learnings/takeaways
-Takeaways from completing this project include the application of concepts surrounding JavaScript event listeners, as well as JSON parsing and local storages. Understanding how to seamlessly alter HTML elements without directing adding code to the HTML document was a key takeaway from this project as it allowed for a fun and interactive coding quiz to be put together. A functional application was ultimately built by being able to access elements via JavaScript by selecting them using their assigned ID's, as well as being able to execute a dynamically decrementing timer that overarched the project. 
+Takeaways from completing this project include the application of concepts surrounding JavaScript event listeners, as well as JSON parsing and local storages. Understanding how to seamlessly alter HTML elements without directly adding code to the HTML document was a key takeaway from this project as it allowed for a fun and interactive coding quiz to be put together. A functional application was ultimately built by being able to access elements via JavaScript by selecting them using their assigned ID's, as well as being able to execute a dynamically decrementing timer that overarched the quiz. 
 
 ![alt text](assets/images/screenshot.PNG)
         
