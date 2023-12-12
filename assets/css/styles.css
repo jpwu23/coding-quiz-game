@@ -1,0 +1,28 @@
+/* Global/initial page styles */
+body {
+    text-align:center;
+}
+
+.content {
+    padding:30px;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+h3 {
+    margin: 40px;
+}
+/* Ribbon/navbar at top of webpage */
+.ribbon {
+    display:flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+/* Centers the button */
+button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
